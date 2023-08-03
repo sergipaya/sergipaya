@@ -7,7 +7,7 @@
 
 - 💬 Pregúntame sobre **HTML, CSS, Javascript, Vue 3, PHP, Laravel 9**
 
-- 📫 Cómo contactarme **info@sergipaya.com**
+- 📫 Contáctame en **info@sergipaya.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
