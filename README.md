@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Sergi Payá Morales</h1>
-<h3 align="center">Soy un desarrollador fullstack apasionado</h3>
+<h3 align="center">Soy Técnico Superior en Desarrollo de Aplicaciones Web y me encanta programar. Tengo conocimientos de frontend, backend y sistemas de gestión de bases de datos.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **ReactJS**
 
