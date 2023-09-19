@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **ReactJS**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [www.sergipaya.com](www.sergipaya.com)
+- 👨‍💻 Todos mis proyectos están disponibles en <a href="https://www.sergipaya.com" target="_blank" rel="noreferrer"><p>sergipaya.com</p></a>
 
 - 💬 Pregúntame sobre **HTML, CSS, Javascript, Vue 3, PHP, Laravel 9**
 
